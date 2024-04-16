@@ -1,0 +1,8 @@
+
+
+
+
+hi this is a random text file that i create to learn git bash entirely
+this helps me to know all about source
+
+
